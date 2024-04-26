@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">murunga</string>
+    <string name="x">X</string>
+    <string name="pest_name">Pest Name:</string>
+    <string name="disease_caused">Disease Caused:</string>
+    <string name="description">Description:</string>
+    <string name="select_images">Select Images</string>
+    <string name="selected_image_paths_will_be_displayed_here">Selected image paths will be displayed here</string>
+    <string name="submit_report">Submit Report</string>
+    <string name="upload">UPLOAD</string>
+    <string name="real_time_data_collection">Real-time Data collection</string>
+    <string name="todo">TODO</string>
+    <string name="aphids">Aphids</string>
+    <string name="disease_name">Disease name</string>
+    <string name="description_of_the_pest_disease">Description of the pest/disease...</string>
+    <string name="tapeworm">Tapeworm</string>
+</resources>
